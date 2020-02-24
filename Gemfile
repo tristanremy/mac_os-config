@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 
-gem "rake", "~> 12.0"
+gem "rake", "~> 12.3", ">= 12.3.3"
 gem "git-cop", "~> 1.7"
